@@ -1,0 +1,6 @@
+{
+  "todos": [
+    { "id": 1, "task": "Learn React", "completed": false },
+    { "id": 2, "task": "Setup JSON Server", "completed": true }
+  ]
+}
